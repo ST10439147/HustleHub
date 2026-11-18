@@ -106,7 +106,7 @@ jobs:
       - run: npm ci
 
       - name: Audit dependencies
-        run: bash ../.github/scripts/npm-audit.sh
+        run: bash ../.github/scripts/npm-audit.sh --omit=dev  # dev-only tooling (vite/vitest) excluded
 
       - name: Lint
         run: npm run lint
