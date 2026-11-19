@@ -1,11 +1,5 @@
   # INSY7314 POE Part 3 (Final Submission)
 ## **HustleHub+ Secure Freelance Marketplace**
-### By 
-1. Dillon Rinkwest - ST10439147
-2. Patrick Shutte - ST10440987
-3. Liam Swile - ST10438679
-4. Uzair Essa - ST10440109
-
 ## Overview
 HustleHub+ is a freelance marketplace platform that requires security to ensure the users of the system their data safety especially since this platform is associated with financial data. The platform will be using sensitive information such as user credentials, transactional records, and income related data as the platform will be helping record generated booking financial records as well as help users with indication of incomes earned and estimate tax obligations.
 ### The Intended User Base
